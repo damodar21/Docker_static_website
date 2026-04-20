@@ -63,8 +63,6 @@ This project demonstrates how to build a Docker image to host a static website u
 4️⃣ Access website
     http://localhost:8080
     
-📸 Screenshots (Optional but Powerful)
-
 
 🔍 Key Learnings
 
@@ -86,15 +84,6 @@ This project demonstrates how to build a Docker image to host a static website u
     Understanding Docker build context
 
 
-🔐 Future Improvements
-
-    Add HTTPS support
-
-    Use Docker Compose
-
-    Deploy to cloud (AWS ECS / Kubernetes)
-
-    Add CI/CD pipeline
 
 📜 License
 
